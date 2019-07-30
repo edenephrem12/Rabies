@@ -1,0 +1,30 @@
+
+
+h1 {
+color: black;
+text-align: center;
+text-decoration: underline;
+
+}
+
+ol {
+	border: solid yellow;
+	background: pink;
+}
+
+h2 {
+color: black;
+text-align: center;
+text-decoration: underline;
+
+}
+
+body {
+		background-color: #7f9cf5;
+}
+
+p {
+	border: solid yellow;
+	background: pink;
+	font-size: 20px;
+}

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*styles/main.css*/
 body {
 	background: rgb(18, 30, 163);
@@ -6,10 +6,11 @@ body {
 #key {
 	color: lightgrey;
 }
-nav {
-	columns: solid;
-	color: white;
-=======
+
+
+.graphs {
+	margin-left: 400px;
+}
 
 
 h1 {
@@ -39,5 +40,12 @@ p {
 	border: solid yellow;
 	background: pink;
 	font-size: 20px;
->>>>>>> b6166af26bef3caef5af34bfede93ef99f64f6f9
+	text-align: center;
+}
+nav {
+	text-align: center;
+	font-size: 27px;
+		columns: solid;
+	color: white;
+
 }

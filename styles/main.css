@@ -1,0 +1,11 @@
+/*styles/main.css*/
+body {
+	background: rgb(18, 30, 163);
+}
+#key {
+	color: lightgrey;
+}
+nav {
+	columns: solid;
+	color: white;
+}

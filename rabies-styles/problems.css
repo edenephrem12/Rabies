@@ -5,5 +5,5 @@ body {
 	background-color: maroon;
 }
 .graphs {
-	alignment-baseline: center;
+	margin: auto;
 }

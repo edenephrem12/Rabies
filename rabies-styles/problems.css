@@ -1,9 +1,15 @@
 p {
 	text-align: center;
 }
+
 body {
-	background-color: maroon;
+	background-color: cyan;
 }
+
 .graphs {
-	margin: auto;
+	margin-left: 450px;
+}
+
+title {
+	text-align: center;
 }

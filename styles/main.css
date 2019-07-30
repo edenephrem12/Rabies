@@ -4,7 +4,7 @@ h1 {
 color: black;
 text-align: center;
 text-decoration: underline;
-
+background: #8860D0;
 }
 
 ol {
@@ -16,15 +16,27 @@ h2 {
 color: black;
 text-align: center;
 text-decoration: underline;
-
+background: #8860D0;
 }
 
 body {
-		background-color: #7f9cf5;
+		background-color: #84CEEB
 }
 
 p {
 	border: solid yellow;
 	background: pink;
 	font-size: 20px;
+}
+
+.nav {
+	background: pink;
+	border: solid yellow;
+
+
+}
+
+ul {
+	border: solid yellow;
+	background: pink;
 }

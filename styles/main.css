@@ -29,6 +29,7 @@ p {
 	border: solid yellow;
 	background: pink;
 	font-size: 20px;
+	text-align: center;
 }
 nav {
 	text-align: center;

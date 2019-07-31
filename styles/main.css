@@ -73,6 +73,10 @@ height: 300px;
 nav {
 	text-align: center;
 	font-size: 27px;
-		columns: solid;
+	columns: solid;
 	color: white;
+}
+
+img {
+	text-align: center;
 }

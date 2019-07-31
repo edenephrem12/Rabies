@@ -1,4 +1,17 @@
 
+/*styles/main.css*/
+body {
+	background: rgb(18, 30, 163);
+}
+#key {
+	color: lightgrey;
+}
+
+
+.graphs {
+	margin-left: 400px;
+}
+
 
 h1 {
 color: black;
@@ -53,4 +66,11 @@ ul {
 #car{
 width: 250px;
 height: 300px;
+	text-align: center;
+}
+nav {
+	text-align: center;
+	font-size: 27px;
+		columns: solid;
+	color: white;
 }

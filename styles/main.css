@@ -4,41 +4,50 @@ h1 {
 color: black;
 text-align: center;
 text-decoration: underline;
-background: #8860D0;
+background: #F5E6CC;
 }
 
 ol {
 	border: solid yellow;
-	background: pink;
+	background: #A64AC9;
+	border-color:#FFB48F;
+	color: white;
 }
 
 h2 {
 color: black;
 text-align: center;
 text-decoration: underline;
-background: #8860D0;
+background: #17E9E0;
+
 }
 
 body {
-		background-color: #84CEEB
+		background-color: #F5E6CC;
+		border-color:#FFB48F;
+
 }
 
 p {
 	border: solid yellow;
-	background: pink;
+	background: #A64AC9;
 	font-size: 20px;
+	border-color:#FFB48F;
+	color: white;
 }
 
 .nav {
-	background: pink;
+	background: #A64AC9;
 	border: solid yellow;
-
+	border-color:#FFB48F;
+	color: white;
 
 }
 
 ul {
-	border: solid yellow;
-	background: pink;
+	border: solid;
+	border-color:#FFB48F;
+	background: #A64AC9;
 }
 
 #car{

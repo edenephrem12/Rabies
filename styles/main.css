@@ -29,8 +29,8 @@ ol {
 h2 {
 color: black;
 text-align: center;
-text-decoration: underline;
 background: #17E9E0;
+border: solid;
 
 }
 
@@ -81,4 +81,8 @@ nav {
 
 img {
 	text-align: center;
+}
+
+.cat {
+	margin-left: 500px;
 }

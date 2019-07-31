@@ -61,10 +61,12 @@ ul {
 	border: solid;
 	border-color:#FFB48F;
 	background: #A64AC9;
+	color: white;
+	font-size: 20px;
 }
 
 #car{
-width: 250px;
+width: 400px;
 height: 300px;
 	text-align: center;
 }

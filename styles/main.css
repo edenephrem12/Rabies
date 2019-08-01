@@ -8,7 +8,9 @@ body {
 
 
 .graphs {
-	margin-left: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
 

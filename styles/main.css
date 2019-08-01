@@ -86,3 +86,8 @@ img {
 .cat {
 	margin-left: 500px;
 }
+
+a {
+	color: white;
+	margin: auto 20px;
+}

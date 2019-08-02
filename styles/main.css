@@ -1,0 +1,97 @@
+/*styles/main.css*/
+body {
+	background: rgb(18, 30, 163);
+}
+#key {
+	color: lightgrey;
+}
+
+
+.graphs {
+ 
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
+
+h1 {
+color: black;
+text-align: center;
+text-decoration: underline;
+background: #F5E6CC;
+}
+
+ol {
+	border: solid yellow;
+	background: #A64AC9;
+	border-color:#FFB48F;
+	color: white;
+}
+
+h2 {
+color: black;
+text-align: center;
+background: #17E9E0;
+border: solid;
+
+}
+
+body {
+		background-color: #F5E6CC;
+		border-color:#FFB48F;
+
+}
+
+p {
+	border: solid yellow;
+	background: #A64AC9;
+	font-size: 20px;
+	border-color:#FFB48F;
+	color: white;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.nav {
+	background: #A64AC9;
+	border: solid yellow;
+	border-color:#FFB48F;
+	color: white;
+
+}
+
+ul {
+	border: solid;
+	border-color:#FFB48F;
+	background: #A64AC9;
+	color: white;
+	font-size: 20px;
+}
+
+#car{
+width: 400px;
+height: 300px;
+margin-left: 500px;
+}
+nav {
+	text-align: center;
+	font-size: 27px;
+	columns: solid;
+	color: white;
+}
+
+img {
+	text-align: center;
+}
+
+.cat {
+	margin-left: 500px;
+}
+
+a {
+	color: white;
+	margin: auto 20px;
+}

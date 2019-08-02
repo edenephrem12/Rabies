@@ -71,10 +71,8 @@ ul {
 	font-size: 20px;
 }
 
-#car{
-width: 400px;
-height: 300px;
-margin-left: 500px;
+#truck{
+
 }
 nav {
 	text-align: center;
@@ -94,4 +92,7 @@ img {
 a {
 	color: white;
 	margin: auto 20px;
+}
+ol {
+	font-size: 20px;
 }
